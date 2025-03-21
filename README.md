@@ -1,2 +1,2 @@
 # Delivery-time-predictor
-A delivery time 
+A delivery time estimation app
